@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\saleimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\saleimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\productimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\productimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\personimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\personimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\employeimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\employeimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\discountimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\discountimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\detailsaleimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\detailsaleimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\detailbookingimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\detailbookingimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\deliveryimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\deliveryimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\categoryimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\categoryimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\brandimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\brandimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\branchimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\branchimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\bookingimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\bookingimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\baseimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\baseimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|c:\\users\\jg012\\source\\repos\\tecnoxspert-ado\\tecnoxspert-ado\\implementation\\jobimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B0889-DFB4-4865-9219-DC8E560B5E32}|TecnoXsperT-ADO\\TecnoXsperT-ADO.csproj|solutionrelative:tecnoxspert-ado\\implementation\\jobimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\SaleImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\SaleImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\SaleImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\SaleImple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:35:31.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\ProductImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\ProductImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\ProductImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\ProductImple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:35:02.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\PersonImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\PersonImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\PersonImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\PersonImple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:34:29.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\EmployeImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\EmployeImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\EmployeImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\EmployeImple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:34:04.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscountImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\DiscountImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\DiscountImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\DiscountImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\DiscountImple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:33:28.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailSaleImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\DetailSaleImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\DetailSaleImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\DetailSaleImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\DetailSaleImple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:32:51.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailBookingImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\DetailBookingImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\DetailBookingImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\DetailBookingImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\DetailBookingImple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:32:09.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeliveryImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\DeliveryImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\DeliveryImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\DeliveryImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\DeliveryImple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:30:33.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\CategoryImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\CategoryImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\CategoryImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\CategoryImple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:29:58.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BrandImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\BrandImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\BrandImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\BrandImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\BrandImple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:29:00.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BranchImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\BranchImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\BranchImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\BranchImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\BranchImple.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:28:16.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\JobImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\JobImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\JobImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\JobImple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:27:18.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\BaseImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\BaseImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\BaseImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\BaseImple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:27:15.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingImple.cs",
+              "DocumentMoniker": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\BookingImple.cs",
+              "RelativeDocumentMoniker": "TecnoXsperT-ADO\\Implementation\\BookingImple.cs",
+              "ToolTip": "C:\\Users\\jg012\\source\\repos\\TecnoXsperT-ADO\\TecnoXsperT-ADO\\Implementation\\BookingImple.cs",
+              "RelativeToolTip": "TecnoXsperT-ADO\\Implementation\\BookingImple.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:26:49.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

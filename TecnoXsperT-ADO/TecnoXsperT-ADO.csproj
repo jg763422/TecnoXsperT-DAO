@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DD3B0889-DFB4-4865-9219-DC8E560B5E32}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TecnoXsperT_ADO</RootNamespace>
+    <AssemblyName>TecnoXsperT-ADO</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Implementation\BaseImple.cs" />
+    <Compile Include="Implementation\BookingImple.cs" />
+    <Compile Include="Implementation\BranchImple.cs" />
+    <Compile Include="Implementation\BrandImple.cs" />
+    <Compile Include="Implementation\CategoryImple.cs" />
+    <Compile Include="Implementation\DeliveryImple.cs" />
+    <Compile Include="Implementation\DetailBookingImple.cs" />
+    <Compile Include="Implementation\DetailSaleImple.cs" />
+    <Compile Include="Implementation\DiscountImple.cs" />
+    <Compile Include="Implementation\EmployeImple.cs" />
+    <Compile Include="Implementation\JobImple.cs" />
+    <Compile Include="Implementation\PersonImple.cs" />
+    <Compile Include="Implementation\ProductImple.cs" />
+    <Compile Include="Implementation\RotationImple.cs" />
+    <Compile Include="Implementation\SaleImple.cs" />
+    <Compile Include="Interface\BaseI.cs" />
+    <Compile Include="Interface\BookingI.cs" />
+    <Compile Include="Interface\BranchI.cs" />
+    <Compile Include="Interface\BrandI.cs" />
+    <Compile Include="Interface\CategoryI.cs" />
+    <Compile Include="Interface\DeliveryI.cs" />
+    <Compile Include="Interface\DetailBookingI.cs" />
+    <Compile Include="Interface\DetailSaleI.cs" />
+    <Compile Include="Interface\DIscountI.cs" />
+    <Compile Include="Interface\EmployeI.cs" />
+    <Compile Include="Interface\JobI.cs" />
+    <Compile Include="Interface\PersonI.cs" />
+    <Compile Include="Interface\ProductI.cs" />
+    <Compile Include="Interface\RotationI.cs" />
+    <Compile Include="Interface\SaleI.cs" />
+    <Compile Include="Model\Base.cs" />
+    <Compile Include="Model\Branch.cs" />
+    <Compile Include="Model\Brand.cs" />
+    <Compile Include="Model\Category.cs" />
+    <Compile Include="Model\DetailBooking.cs" />
+    <Compile Include="Model\DetailSale.cs" />
+    <Compile Include="Model\Delivery.cs" />
+    <Compile Include="Model\Discount.cs" />
+    <Compile Include="Model\Employe.cs" />
+    <Compile Include="Model\Job.cs" />
+    <Compile Include="Model\Person.cs" />
+    <Compile Include="Model\Product.cs" />
+    <Compile Include="Model\Rotation.cs" />
+    <Compile Include="Model\Booking.cs" />
+    <Compile Include="Model\Sale.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
